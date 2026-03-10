@@ -52,10 +52,10 @@ A new Google Doc is created (CV sections on page 1, cover letter on page 2), the
 ## 📸 Screenshots
 
 ### Workflow Canvas
-![N8N Workflow](screenshots/n8n_canvas.png)
+![N8N Workflow](main/n8n_canvas.png)
 
 ### Google Sheets Output
-![Google Sheets](screenshots/google_sheets.png)
+![Google Sheets](main/google_sheets.png)
 
 ---
 
