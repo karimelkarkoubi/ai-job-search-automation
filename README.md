@@ -61,3 +61,7 @@
 ## 🔒 Privacy Note
 
 API keys, credentials, and personal data are stored as environment variables in N8N and are not included in this repository.
+
+---
+
+*Built by [Karim El Karkoubi](https://linkedin.com/in/karimelkarkoubi)*
